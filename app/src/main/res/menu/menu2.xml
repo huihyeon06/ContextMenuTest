@@ -6,4 +6,7 @@
     <item
         android:id="@+id/subSize"
         android:title="버튼 2개 확대"/>
+    <item
+        android:id="@+id/subOriginal"
+        android:title="버튼 원래대로"/>
 </menu>
